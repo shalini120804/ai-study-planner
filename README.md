@@ -9,7 +9,7 @@ organize and prioritize study tasks efficiently.
 - Simple and extensible AI logic
 - Easy to adapt for web or mobile platforms
 
-## How It Works
+## How It Work
 Tasks are assigned a priority score based on urgency and importance.
 The planner dynamically sorts tasks to generate an optimized study plan.
 
